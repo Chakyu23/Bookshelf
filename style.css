@@ -1,0 +1,31 @@
+.id-col {
+    width : 50px;
+}
+
+.act-col {
+    width : 60px;
+}
+
+.act-cell {
+    display: flex;
+    justify-content: space-around;
+}
+
+select {
+    width : 240px;
+    height: 38px;
+}
+
+form {
+    display: flex;
+    align-items: center;
+}
+
+.text-input {
+    width: 240px;
+    height: 38px;
+}
+
+.decal {
+    margin-right: 5px;
+}
